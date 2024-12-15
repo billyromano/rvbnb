@@ -11,3 +11,4 @@ export const scaleIn = (element: Element, delay: number = 0) => {
       ease: 'back.out(1.7)'
     }
   );
+};

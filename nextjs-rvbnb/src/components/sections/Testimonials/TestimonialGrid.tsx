@@ -1,4 +1,3 @@
-```typescript
 import { ScrollReveal } from '@/components/animations/ScrollReveal';
 import { TestimonialCard } from './TestimonialCard';
 import type { Testimonial } from '@/types/testimonials';
@@ -22,4 +21,3 @@ export function TestimonialGrid({ testimonials }: TestimonialGridProps) {
     </div>
   );
 }
-```

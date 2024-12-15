@@ -1,4 +1,3 @@
-```typescript
 import { Image } from '@/components/ui/Image';
 import { Star } from 'lucide-react';
 import { cn } from '@/lib/utils';
@@ -56,4 +55,3 @@ export function TestimonialCard({
     </div>
   );
 }
-```
