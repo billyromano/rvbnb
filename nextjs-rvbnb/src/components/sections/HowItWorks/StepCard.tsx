@@ -1,3 +1,5 @@
+import {cn} from "@/lib/utils";
+
 export function StepCard({ icon: Icon, title, description, className }) {
   return (
     <div className={cn(
