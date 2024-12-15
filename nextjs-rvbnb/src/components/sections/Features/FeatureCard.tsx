@@ -1,3 +1,5 @@
+import {cn} from "@/lib/utils";
+
 export function FeatureCard({ title, description, icon: Icon, className }) {
   return (
     <div className={cn(
