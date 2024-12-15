@@ -1,4 +1,3 @@
-```typescript
 import { Suspense } from 'react';
 import { Section } from '@/components/ui/Section';
 import { TestimonialGrid } from './TestimonialGrid';
@@ -29,4 +28,3 @@ export async function TestimonialsContainer() {
     </Section>
   );
 }
-```

@@ -1,4 +1,3 @@
-```typescript
 import { Section } from '@/components/ui/Section';
 import { ExperienceGallery } from './ExperienceGallery';
 import { getExperiences } from '@/lib/api/experiences';
@@ -28,4 +27,3 @@ export async function ExperiencesContainer() {
     </Section>
   );
 }
-```
